@@ -1,0 +1,4 @@
+## Title: BEYOND WEISFEILER-LEHMAN: A QUANTITATIVE FRAMEWORK FOR GNN EXPRESSIVENESS
+1. 关于测量GNN表示能力的。利用的是同胚的方法
+2. 没有学过GNN，先没看
+3. GNN的course: stanford cs 224W

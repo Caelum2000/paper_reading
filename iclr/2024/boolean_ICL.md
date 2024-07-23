@@ -1,0 +1,3 @@
+## Title: UNDERSTANDING IN-CONTEXT LEARNING IN TRANSFORMERS AND LLMS BY LEARNING TO LEARN DISCRETE FUNCTIONS
+1. 利用LLM的ICL能力学习boolean函数
+2. 除了transformer, 测试了其他一些结构的ICL boolean function能力,例如LSTM
