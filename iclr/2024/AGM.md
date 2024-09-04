@@ -1,0 +1,3 @@
+## GENERATIVE MODELING WITH PHASE STOCHASTIC BRIDGES
+1. 利用SDE的一些东西提出了一直加速采样的方法
+2. 没看细节，学完SDE再看
