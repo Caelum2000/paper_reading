@@ -33,3 +33,13 @@
 2. 通过可学习的prompt，作为标签或者condition，从而给模型指明是哪一个task
 3. Learning to Prompt for Continual Learning (L2P) 该框架的提出者
 4. Introducing Language Guidance in Prompt-based Continual Learning 使用语言encoder指导prompt pool的分布
+5. Multimodal Parameter-Efficient Few-Shot Class Incremental Learning 利用prompt+CLIP实现持续的小样本学习
+
+### Meta-learning + CL
+1. MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning 使用MAML+Few show learning进行具有持续学习能力的FSL模型。
+
+### few-shot class incremental learning (FSCIL)
+1. 这里的文章都没看太懂，还需要熟悉一下流程
+2. Multimodal Parameter-Efficient Few-Shot Class Incremental Learning 利用prompt+CLIP实现持续的小样本学习
+3. MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning 使用MAML+Few show learning进行具有持续学习能力的FSL模型。
+
