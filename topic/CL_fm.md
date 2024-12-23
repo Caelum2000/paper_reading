@@ -27,6 +27,9 @@
 ### Modular Architectures
 1. MoE
 2. Adapter
+3. Self-Composing Policies for Scalable Continual Reinforcement Learning
+
+
 
 ### Prompt Tuning + CL
 1. prompt在这里是可以学习的一个vector，和LLM那个不一样
