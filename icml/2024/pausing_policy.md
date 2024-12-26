@@ -6,3 +6,5 @@
 
 ### review
 1. 需要看看related work的文章
+2. 主要解决实时变化的状态转移函数以及reward, 见Sec.3
+3. 提出适当暂停策略，就是不是一直持续的更新policy

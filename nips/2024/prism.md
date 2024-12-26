@@ -1,0 +1,2 @@
+## The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models
+1. 收集了不同国家，不同文化用于LLM价值观对齐的数据集
