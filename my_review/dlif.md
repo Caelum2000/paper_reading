@@ -9,6 +9,8 @@
     * You can use an LLM to do background research or to check short phrases for clarity. This includes using grammar checkers such as Grammarly.
     * The PCs will look actively for collusion rings. Reviewers caught at collaborating to manipulate the review process for mutual benefit will see their papers desk-rejected.
 
+This work has potential contributions, but further clarification is needed regarding the novelty and the strength of the experiments.
+
 
 ## Paper Summary
 
