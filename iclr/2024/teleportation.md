@@ -8,3 +8,4 @@
 1. 之前有一系列的工作
 2. 可以和meta-learning结合，通过teleportation初始化网络参数
 3. 好像说teleportation可以找到泛化更好的点
+4. 需要看李群的知识，正在看
