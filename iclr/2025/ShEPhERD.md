@@ -1,0 +1,3 @@
+### ShEPhERD: DIFFUSING SHAPE, ELECTROSTATICS, AND PHARMACOPHORES FOR BIOISOSTERIC DRUG DESIGN
+1. 设计了一种 SE(3) 的diffusion，用来建模分子
+2. 不懂，放waiting list ai4sci

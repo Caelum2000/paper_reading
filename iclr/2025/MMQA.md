@@ -1,0 +1,2 @@
+### MMQA: EVALUATING LLMS WITH MULTI-TABLE MULTI-HOP COMPLEX QUESTIONS
+1. 针对table data的LLM数据集。建立了一套tabular 数据的测试流程
