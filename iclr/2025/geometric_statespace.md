@@ -1,0 +1,3 @@
+### GEOMETRY OF NEURAL REINFORCEMENT LEARNING IN CONTINUOUS STATE AND ACTION SPACES
+1. 研究的是连续RL的状态空间
+2. 指出上述状态空间是一个低维流形。这个流形的维数和action space有关
