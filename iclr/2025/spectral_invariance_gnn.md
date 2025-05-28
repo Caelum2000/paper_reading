@@ -1,0 +1,3 @@
+### HOMOMORPHISM EXPRESSIVITY OF SPECTRAL INVARIANT GRAPH NEURAL NETWORKS
+1. 从谱的角度研究GNN
+2. 放waiting list, openreview比较有意思，可以参考
