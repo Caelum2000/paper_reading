@@ -1,0 +1,3 @@
+### RESIDUAL DEEP GAUSSIAN PROCESSES ON MANIFOLDS
+1. 在黎曼流形上的深度高斯过程
+2. 放waiting list
