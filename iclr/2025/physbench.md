@@ -1,0 +1,3 @@
+### PHYSBENCH: BENCHMARKING AND ENHANCING VISION-LANGUAGE MODELS FOR PHYSICAL WORLD UNDERSTANDING
+1. 指出VLM理解物理场景能力弱，本文提出physbench, 主要是专注VLM物理理解，有点像小学物理题
+2. 提出一个physAgent, 使用RAG, CoT等方法增强物理VLM能力
