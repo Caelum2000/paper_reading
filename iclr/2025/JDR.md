@@ -1,0 +1,3 @@
+### JOINT GRAPH REWIRING AND FEATURE DENOISING VIA SPECTRAL RESONANCE
+1. 同时进行graph rewiring和对特征进行变换
+2. 放waiting list
