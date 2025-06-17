@@ -1,0 +1,3 @@
+### AI AS HUMANITY’S SALIERI: QUANTIFYING LINGUISTIC CREATIVITY OF LANGUAGE MODELS VIA SYSTEMATIC ATTRIBUTION OF MACHINE TEXT AGAINST WEB TEXT
+1. 设计了一个度量指标，creativity index来定量评测LLM的创造能力
+2. creativity的具体能力是通过动态规划的爬虫从网上爬取数据，然后对比llm生成的text与网上数据的不同
