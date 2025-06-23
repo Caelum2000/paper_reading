@@ -1,0 +1,3 @@
+### PROBABILISTIC LEARNING TO DEFER: HANDLING MISSING EXPERT’S ANNOTATIONS AND CONTROLLING WORKLOAD DISTRIBUTION
+1. 主要研究learning to defer问题。即LLM决定是否将一个问题传递给人类专家还是自己解决
+2. 本研究主要解决专家的标注部分缺失的情况，，使用了MoE+EM算法
