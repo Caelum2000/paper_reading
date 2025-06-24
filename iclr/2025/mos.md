@@ -1,0 +1,2 @@
+### MOS: MODEL SYNERGY FOR TEST-TIME ADAPTATION ON LIDAR-BASED 3D OBJECT DETECTION
+1. 使用类似模型综合和模型集成的方法解决3d object detection没法泛化的问题
