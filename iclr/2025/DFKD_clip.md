@@ -1,0 +1,3 @@
+### OPEN-VOCABULARY CUSTOMIZATION FROM CLIP VIA DATA-FREE KNOWLEDGE DISTILLATION
+1. data-free 对CLIP进行蒸馏，，主要是解决模型参数大的问题
+2. 先model inversion, 再蒸馏

@@ -1,0 +1,2 @@
+### SYNTHETIC CONTINUED PRETRAINING
+1. LLM提取原始小规模数据的，然后生成大规模数据
