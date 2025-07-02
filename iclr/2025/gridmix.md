@@ -1,0 +1,3 @@
+### GRIDMIX: EXPLORING SPATIAL MODULATION FOR NEURAL FIELDS IN PDE MODELING
+1. 使用neural field进行解PDE
+2. 不知道neural field是干嘛的
