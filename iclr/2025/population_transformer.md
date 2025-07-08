@@ -1,0 +1,3 @@
+### POPULATION TRANSFORMER: LEARNING POPULATIONLEVEL REPRESENTATIONS OF NEURAL ACTIVITY
+1. 使用transformer在neural recording数据上进行pretrain
+2. 用的GPU较少，放relevant

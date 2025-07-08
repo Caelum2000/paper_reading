@@ -1,0 +1,2 @@
+### RM-BENCH: BENCHMARKING REWARD MODELS OF LANGUAGE MODELS WITH SUBTLETY AND STYLE
+1. reward model的bench，用于测试其对于微小变化的敏感性和对不同风格输入的鲁棒性

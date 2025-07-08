@@ -1,0 +1,2 @@
+### MAESTROMOTIF: SKILL DESIGN FROM ARTIFICIAL INTELLIGENCE FEEDBACK
+1. 使用LLM将人类自然语言的skill转化成reward的形式，然后训练agent

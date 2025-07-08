@@ -1,0 +1,3 @@
+### RB-MODULATION: TRAINING-FREE STYLIZATION USING REFERENCE-BASED MODULATION
+1. 不需要训练的diffusion风格控制器，需要一张ref图片
+2. 要用到随机控制，不太懂
