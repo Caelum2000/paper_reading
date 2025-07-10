@@ -1,0 +1,3 @@
+### RETHINKING REWARD MODELING IN PREFERENCEBASED LARGE LANGUAGE MODEL ALIGNMENT
+1. 主要是研究为什么BT模型可以很好地表示preference
+2. 提出了新的preference模型
