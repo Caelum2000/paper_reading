@@ -1,0 +1,3 @@
+### GEOMETRY-AWARE RL FOR MANIPULATION OF VARYING SHAPES AND DEFORMABLE OBJECTS
+1. 使用GNN来建模机器人抓的物体，因为物体能够用网格表示
+2. 好像是使用GNN设计了一个policy net,具体没看懂
